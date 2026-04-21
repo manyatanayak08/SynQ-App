@@ -25,7 +25,8 @@ SynQ is a secure real-time Android messaging application built using Java. It al
 3. Sync Gradle
 4. Run on emulator/device
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e72ba6d-c9d1-4703-8aac-a4f1dc264026" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/5b11e3ff-13ba-4474-b74c-014bd0e64fbd" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a86a796d-8539-43b9-ae3f-c58d1155e45a" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/177ec8aa-d197-4f34-aa28-82b4a84767d3" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8872d648-8bcf-423d-845c-2d0924751fc7" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/24535c8b-01c7-4d06-8a02-be9cb7e99705" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e5fba16c-1a09-4619-ad18-4d95f6942b1b" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a267883f-2a80-482c-8398-03cd493ee4da" />
+
