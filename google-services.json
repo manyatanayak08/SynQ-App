@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460116283144",
+    "project_id": "bakbak-cb7b3",
+    "storage_bucket": "bakbak-cb7b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460116283144:android:bda4f4e4d129fa5ae4e6bd",
+        "android_client_info": {
+          "package_name": "com.example.synq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCserIVdzxi1AXScbgkzK2LCWC8Hl9cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
